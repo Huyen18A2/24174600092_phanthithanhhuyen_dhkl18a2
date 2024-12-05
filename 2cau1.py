@@ -25,4 +25,3 @@ print(ds_nguyen_to)
 # #Tính tổng các giá trị trong danh sách
 tong = sum(ds_nguyen_to)
 print(tong)
-
